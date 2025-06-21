@@ -1,4 +1,4 @@
-# Hi, This is Raushan Kumar
+# Hey there 👋 I'm Raushan Kumar — a curious coder and web dev enthusiast.
  💻Computer Science student  
  🧠 Learning Web Development   
  ⚛️ React Rookie   
