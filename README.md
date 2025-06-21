@@ -1,4 +1,4 @@
-<b>Hi, This is Raushan Kumar <b>  
+# Hi, This is Raushan Kumar
  💻Computer Science student  
  🧠 Learning Web Development   
  ⚛️ React Rookie   
