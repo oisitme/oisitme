@@ -1,8 +1,8 @@
 # Hey there 👋 I'm Raushan Kumar — a curious coder and web dev enthusiast.
  💻Computer Science student  
  🧠 Learning Web Development   
- ⚛️ React Rookie   
- Don't forget to explore my X (Twitter) profile 👉 [https://x.com/oisitmee](https://x.com/oisitmee)  
+ ⚛️ NodeJs Rookie   
+ 
  
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/oisitmee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raushankumarsam500@gmail.com) 
